@@ -13,7 +13,7 @@
 
 
 
-### You can cnnect with me via:
+### You can connect with me via:
 
 [<img align="left" alt="I_AM_PSAMUEL | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="I_AM_PSAMUEL | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
