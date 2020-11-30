@@ -3,7 +3,7 @@
 
 ## I'm a Web developer and Teacher!!
 
-- 🔭 I’m currently working on more Django Pojects 💪
+- 🔭 I’m currently working Django and JavaScript Pojects 💪
 - 🌱 I’m currently learning anything related to web development 😂
 - 👯 I’m looking to collaborate with other developers on cool projects
 - 💬 Ask me about anything 
