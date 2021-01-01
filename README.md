@@ -25,8 +25,8 @@
 <br />
 
 
-[twitter]: https://twitter.com/Oluseun28094892?
-[linkedin]: https://www.linkedin.com/in/samuel-oyewole-ba191a1b8/?
+[twitter]: https://twitter.com/samueldevguy?
+[linkedin]: https://www.linkedin.com/in/samuel-oyewole-dev/?
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt?
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4?
 
