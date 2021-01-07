@@ -1,14 +1,14 @@
 ### Hello, I'm Samuel 👋 😎😎
 
 
-## I'm a Web developer and Teacher!!
+## I'm a Web developer !!
 
 - 🔭 I’m currently working Django and JavaScript Pojects 💪
 - 🌱 I’m currently learning anything related to web development 😂
 - 👯 I’m looking to collaborate with other developers on cool projects
 - 💬 Ask me about anything 
-- 🥅 2020 Goals: Learn More, Play More and have fun
-- ⚡ Fun fact: I love listening music 🎵 and  play the piano 🎹
+- 🥅 2021 Goals: Learn More, Play More and have fun
+- ⚡ Fun fact: I love listening to music 🎵 and playing the piano 🎹
 
 
 
