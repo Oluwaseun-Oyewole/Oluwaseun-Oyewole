@@ -1,9 +1,9 @@
 ### Hello, I'm Samuel 👋 😎😎
 
 
-## I'm a Web developer !!
+## I'm a Web developer 
 
-- 🔭 I’m currently working Django and JavaScript Pojects 💪
+- 🔭 I’m currently working Django and React Pojects 💪
 - 🌱 I’m currently learning anything related to web development 😂
 - 👯 I’m looking to collaborate with other developers on cool projects
 - 💬 Ask me about anything 
