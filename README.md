@@ -1,9 +1,7 @@
 ### Hi, I'm Samuel 
 
 
-#### I'm a Web developer 
-
-- 🔭 I’m  a code enthusiast
+- 🔭 I'm a Web developer 
 - 🌱 I’m currently learning anything related to web development
 - 👯 I’m looking to collaborate with other developers.
 
