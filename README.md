@@ -3,11 +3,9 @@
 
 #### I'm a Web developer 
 
-
-- 🔭 I’m  a Django React developer
-- 🌱 I’m currently learning anything related to web development 
+- 🔭 I’m  a code enthusiast
+- 🌱 I’m currently learning anything related to web development
 - 👯 I’m looking to collaborate with other developers.
-
 
 
 #### You can connect with me via:
