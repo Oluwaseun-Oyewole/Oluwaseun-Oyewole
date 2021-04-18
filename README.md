@@ -15,10 +15,5 @@
 <br />
 <br />
 
-
-[twitter]: https://twitter.com/samueldevguy?
-[linkedin]: https://www.linkedin.com/in/samuel-oyewole-dev/?
-
-
 <!-- REFERNCE To Jesse - aka [codeSTACKr][website] whom i used some of his customization 🙏🙏 -->
 
