@@ -1,6 +1,5 @@
 ### Hi, I'm Samuel 
 
-
 - 🔭 I'm a Web developer 
 - 🌱 I’m currently learning anything related to web development
 - 👯 I’m looking to collaborate with other developers.
@@ -20,9 +19,6 @@
 
 [twitter]: https://twitter.com/samueldevguy?
 [linkedin]: https://www.linkedin.com/in/samuel-oyewole-dev/?
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt?
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4?
-
 
 
 <!-- REFERNCE To Jesse - aka [codeSTACKr][website] whom i used some of his customization 🙏🙏 -->
