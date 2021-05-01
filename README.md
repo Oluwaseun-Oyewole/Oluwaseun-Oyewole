@@ -1,4 +1,4 @@
-### Hi, I'm Samuel 
-#### I love to build things 
-#### I’m currently learning anything related to web development
-#### I’m looking forward to collaborate with other developers.
+### Hi, I'm Samuel Oyewole
+#### I build things with Python, Django and React web technologies
+#### I’m currently learning anything related to web development and more!!
+#### I’m definitely looking forward to collaborate with other developers.
