@@ -1,5 +1,4 @@
-### Hi, I'm Olúwáṣeun Oyèwọlé ✋✋
-#### I write Python and JavaScript
-#### I'm currently learning about the web
-#### I build applications with Python and JavaScript web technologies
+### Hello!!, I'm Olúwáṣeun Oyèwọlé ✋✋
+#### I'm a software developer and Tech instructor
+#### I implement designs and build scalable applications with Python, Javascript Technologies.
 #### I’m definitely looking forward to collaborating with other developers 🤝🤝
