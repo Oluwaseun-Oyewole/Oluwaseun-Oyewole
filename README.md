@@ -3,4 +3,5 @@
 #### I implement designs and build scalable applications with React, TypeScript & Next.
 #### I’m definitely looking forward to collaborating with other developers 🤝🤝
 
+Here is my latest work: [Hr360](https://hr-360-dashboard.vercel.app/)
 Email: findseunoyewole@gmail.com 📧
