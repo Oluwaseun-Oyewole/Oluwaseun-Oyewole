@@ -2,7 +2,7 @@
 
 ```bash
 <>Technologies</>
-React
+ReactJS
 NextJS
 Javascript
 Typescript
@@ -14,4 +14,4 @@ Mongo
 [Hr360](https://hr-360-dashboard.vercel.app/) \
 [weather](https://weatherr-map.vercel.app//) 
 
-Email: findseunoyewole@gmail.com 📧
+#### Email: findseunoyewole@gmail.com 📧
