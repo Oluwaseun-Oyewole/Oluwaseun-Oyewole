@@ -1,5 +1,5 @@
-#### I'm a Frontend Engineer.
-#### I build solutions with React, Next,TypeScript and a host of other technologies.
+### I build solutions with clean and quality codes.
+
 ```bash
 <>Technologies</>
 React
@@ -10,7 +10,6 @@ Python
 PSQL
 Mongo
 ```
-
 #### <ins>Latest works</ins> 
 [Hr360](https://hr-360-dashboard.vercel.app/) \
 [weather](https://weatherr-map.vercel.app//) 
