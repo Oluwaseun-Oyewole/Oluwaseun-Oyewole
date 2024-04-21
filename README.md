@@ -11,7 +11,8 @@ PSQL
 Mongo
 ```
 #### <ins>Latest works</ins> 
-[Hr360](https://hr-360-dashboard.vercel.app/) \
+[Hr360](https://hr-360-dashboard.vercel.app/auth/login) \
 [weather](https://weatherr-map.vercel.app//) 
+
 
 #### Email: findseunoyewole@gmail.com 📧
