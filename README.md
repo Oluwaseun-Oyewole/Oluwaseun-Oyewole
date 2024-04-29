@@ -1,4 +1,4 @@
-### I build solutions with clean and quality codes.
+### I build solutions.
 
 ```bash
 <>Technologies</>
@@ -9,10 +9,13 @@ Typescript
 Python
 PSQL
 Mongo
+Docker
+CI/CD
 ```
-#### <ins>Latest works</ins> 
+#### <ins>Latest work</ins> 
 [Hr360](https://hr-360-dashboard.vercel.app/auth/login) \
-[weather](https://weatherr-map.vercel.app//) 
 
+#### <ins>currently building</ins> 
+[Hr360](https://jobber-one.vercel.app/) \
 
 #### Email: findseunoyewole@gmail.com 📧
