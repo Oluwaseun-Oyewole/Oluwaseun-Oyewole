@@ -16,6 +16,6 @@ CI/CD
 [Hr360](https://hr-360-dashboard.vercel.app/auth/login) 
 
 #### <ins>currently building</ins> 
-[Hr360](https://jobber-one.vercel.app/) 
+[Jobber](https://jobber-one.vercel.app/) 
 
 #### Email: findseunoyewole@gmail.com 📧
