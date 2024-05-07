@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Jobber](https://jobber-ten.vercel.app/)
 
-- 🌱 I’m currently writing and still learning **ReactJs,NextJs,Typescript, Prisma, Docker and SQL**
+- 🌱 I’m currently learning **ReactJs,NextJs,Typescript, Prisma, Docker and SQL**
 
 - 👯 My recently completed works [Hr360](https://hr-360-dashboard.vercel.app/auth/login,)
 -  [Weather Maps](https://weatherr-map.vercel.app/)
