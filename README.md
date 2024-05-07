@@ -7,8 +7,9 @@
 
 - 🌱 I’m currently learning **ReactJs,NextJs,Typescript, Prisma, Docker and SQL**
 
-- 👯 My recently completed works [Hr360](https://hr-360-dashboard.vercel.app/auth/login,)
--  [Weather Maps](https://weatherr-map.vercel.app/)
+- 👯 See my recents works below:
+-   [Hr360](https://hr-360-dashboard.vercel.app/auth/login)
+-   [Weather Maps](https://weatherr-map.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Oluwaseun-Oyewole](https://github.com/Oluwaseun-Oyewole)
 
