@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm Seun Samuel</h2>
-<h4 align="center" fontWeight="300" >Hello 👋, I'm a Frontend engineer who is passionate about creating engaging user interfaces and interactive experiences. I curate web experiences using React Js, Next Js,Typescript,Tailwind, Mongo, Mongoose, Prisma, Psql, HTML, CSS, Javascript, SASS, Docker, (workflow) CI/CD Pipelines. </h4>
 
+<h4 align="center" fontWeight="300" >Hello 👋, I'm a Frontend engineer who is passionate about creating engaging user interfaces and interactive experiences. I curate web experiences using React Js, Next Js,Typescript,Tailwind, Mongo, Mongoose, Prisma, Psql, HTML, CSS, Javascript, SASS, Docker, (workflow) CI/CD Pipelines. </h4>
+<br/>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwaseun-oyewole&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseun-oyewole" /> </p>
 
 - 🔭 I’m currently working on [Jobber](https://jobber-ten.vercel.app/)
