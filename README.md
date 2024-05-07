@@ -1,4 +1,4 @@
-### I build solutions.
+### solution oriented developer.
 
 ```bash
 <>Technologies</>
