@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwaseun-oyewole&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseun-oyewole" /> </p>
 
 -   <h3>Facts about me ⚡ </h3>
-- 🔭 I’m currently working on a side project called [Jobber](https://jobber-ten.vercel.app/)
-- 🌱 I’m currently learning **ReactJs,NextJs,Typescript, Prisma, Docker and SQL**
+
+- 🌱 I’m currently learning ** ReactJs,NextJs,Typescript, Prisma, Docker and SQL **
 - 👯 See my recents works below:
   <span>[Hr360](https://hr-360-dashboard.vercel.app/auth/login)
         [Weather Maps](https://weatherr-map.vercel.app/)
