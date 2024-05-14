@@ -1,10 +1,8 @@
 <h2 align="center">Hi 👋, I'm Seun Samuel</h2>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oluwaseun-oyewole&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseun-oyewole" /> </p>
 <p>Hello 👋, I'm a Frontend engineer who is passionate about creating engaging user interfaces and interactive experiences. I curate web experiences using React Js, Next Js,Typescript,Tailwind, Mongo, Mongoose, Prisma, Psql, HTML, CSS, Javascript, SASS, Docker, (workflow) CI/CD Pipelines. </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwaseun-oyewole&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseun-oyewole" /> </p>
 
 -   <h3>Facts about me ⚡ </h3>
-
 - 🌱 I’m currently learning **React Js,Next Js,Typescript, Prisma, Docker and SQL**
 - 👯 See my recents works below:
   <span>[Hr360](https://hr-360-dashboard.vercel.app/auth/login)
