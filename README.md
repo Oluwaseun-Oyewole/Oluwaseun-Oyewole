@@ -5,7 +5,7 @@
 
 -   <h3>Facts about me ⚡ </h3>
 
-- 🌱 I’m currently learning ** ReactJs,NextJs,Typescript, Prisma, Docker and SQL **
+- 🌱 I’m currently learning **React Js,Next Js,Typescript, Prisma, Docker and SQL**
 - 👯 See my recents works below:
   <span>[Hr360](https://hr-360-dashboard.vercel.app/auth/login)
         [Weather Maps](https://weatherr-map.vercel.app/)
