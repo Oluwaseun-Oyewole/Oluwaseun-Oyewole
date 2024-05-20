@@ -6,13 +6,14 @@
 - 🌱 I’m currently learning **React Js,Next Js,Typescript, Prisma, Docker and SQL**
 - 👯 See my recents works below:
   <span>[Hr360](https://hr-360-dashboard.vercel.app/auth/login)
-        [Weather Maps](https://weatherr-map.vercel.app/)
         [Jobber](https://jobber-ten.vercel.app/)
   </span>
 - 👨‍💻 All of my projects are available at [https://github.com/Oluwaseun-Oyewole](https://github.com/Oluwaseun-Oyewole)
 - 💬 Ask me about **ReactJs, NextJs, Typescript, Mongo, Prisma, PSQL, Docker**
 - 📫 How to reach me **findseunoyewole@gmail.com**
 - 📄 Know about my experiences [https://docs.google.com/document/d/13UmEAq-hz3Lh6JK1SGZRy7XNrTXzHNCoMNzoN-uwTqE/edit#heading=h.w1g1b3b5ptee](https://docs.google.com/document/d/13UmEAq-hz3Lh6JK1SGZRy7XNrTXzHNCoMNzoN-uwTqE/edit#heading=h.w1g1b3b5ptee)
+
+- - 📄 Breakdown of some of my recents works [https://docs.google.com/document/d/1FHssiA29xgR4zdnIfikpz-WJtpRUMkjLObhh0OXPYwk/edit](https://docs.google.com/document/d/1FHssiA29xgR4zdnIfikpz-WJtpRUMkjLObhh0OXPYwk/edit)
 
 - ⚡ Fun fact **, I have a great sense of humour**
 
