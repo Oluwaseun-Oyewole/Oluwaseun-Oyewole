@@ -3,7 +3,7 @@
 <p>Hello 👋, I'm a Frontend engineer who is passionate about creating engaging user interfaces and interactive experiences. I curate web experiences using React Js, Next Js,Typescript,Tailwind, Mongo, Mongoose, Prisma, Psql, HTML, CSS, Javascript, SASS, Docker, (workflow) CI/CD Pipelines. </p>
 
 -   <h3>Facts about me ⚡ </h3>
-- 🌱 I’m currently learning **React Js,Next Js,Typescript, Prisma, Docker and SQL**
+- 🌱 I’m currently learning **React Js,Next Js,Typescript, Prisma, Docker, SQL, Web Accessibility and testing**
 - 👯 See my recents works below:
   <span>
   [Jobber](https://jobber-ten.vercel.app/)
