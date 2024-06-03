@@ -18,7 +18,7 @@
 - ⚡ Fun fact **, I have a great sense of humour**
 
 - Check me out on LinkedIn - [LinkedIn](https://www.linkedin.com/in/samuel-oyewole-dev/)
-
+<br/>
 
 #### 🛠 &nbsp; Tech Stacks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
