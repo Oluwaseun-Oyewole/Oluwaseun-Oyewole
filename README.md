@@ -17,8 +17,7 @@
 
 - ⚡ Fun fact **, I have a great sense of humour**
 
-#### Check me out on LinkedIn.
-[LinkedIn](https://www.linkedin.com/in/samuel-oyewole-dev/) 
+- Check me out on LinkedIn - [LinkedIn](https://www.linkedin.com/in/samuel-oyewole-dev/)
 
 
 #### 🛠 &nbsp; Tech Stacks
