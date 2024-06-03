@@ -4,10 +4,9 @@
 
 -   <h3>Facts about me ⚡ </h3>
 - 🌱 I’m currently learning **React Js,Next Js,Typescript, Prisma, Docker, SQL, Web Accessibility and Testing**
-- 👯 See my recents works below:
+- 👯 I'm currently working on:
   <span>
-  [Jobber](https://jobber-ten.vercel.app/)
-  [Hr360](https://hr-360-dashboard.vercel.app/auth/login)      
+  [react-vite-template](https://github.com/Oluwaseun-Oyewole/react-vite-template)    
   </span>
 - 👨‍💻 All of my projects are available at [https://github.com/Oluwaseun-Oyewole](https://github.com/Oluwaseun-Oyewole)
 - 💬 Ask me about **ReactJs, NextJs, Typescript, Mongo, Prisma, PSQL, Docker**
