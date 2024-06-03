@@ -8,15 +8,14 @@
   <span>
   [react-vite-template](https://github.com/Oluwaseun-Oyewole/react-vite-template)    
   </span>
-- 👨‍💻 All of my projects are available at [https://github.com/Oluwaseun-Oyewole](https://github.com/Oluwaseun-Oyewole)
+- 👨‍💻 My projects are available at [https://github.com/Oluwaseun-Oyewole](https://github.com/Oluwaseun-Oyewole)
 - 💬 Ask me about ReactJs, NextJs, Typescript, Mongo, Prisma, PSQL, Docker
-- 📫 How to reach me **findseunoyewole@gmail.com**
+- 📫 How to reach me indseunoyewole@gmail.com
 - 📄 Know about my experiences [https://docs.google.com/document/d/13UmEAq-hz3Lh6JK1SGZRy7XNrTXzHNCoMNzoN-uwTqE/edit#heading=h.w1g1b3b5ptee](https://docs.google.com/document/d/13UmEAq-hz3Lh6JK1SGZRy7XNrTXzHNCoMNzoN-uwTqE/edit#heading=h.w1g1b3b5ptee)
 
 - - 📄 Breakdown of some of my recents works [https://docs.google.com/document/d/1FHssiA29xgR4zdnIfikpz-WJtpRUMkjLObhh0OXPYwk/edit](https://docs.google.com/document/d/1FHssiA29xgR4zdnIfikpz-WJtpRUMkjLObhh0OXPYwk/edit)
 
-- ⚡ Fun fact **, I have a great sense of humour**
-
+- ⚡ Fun fact, I love good music and travels 
 - Check me out on LinkedIn - [LinkedIn](https://www.linkedin.com/in/samuel-oyewole-dev/)
 <br/>
 
