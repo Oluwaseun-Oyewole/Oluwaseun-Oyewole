@@ -3,13 +3,13 @@
 <p>Hello 👋, I'm a Frontend engineer who is passionate about creating engaging user interfaces and interactive experiences. I curate web experiences using React Js, Next Js,Typescript,Tailwind, Mongo, Mongoose, Prisma, Psql, HTML, CSS, Javascript, SASS, Docker, (workflow) CI/CD Pipelines. </p>
 
 -   <h3>Facts about me ⚡ </h3>
-- 🌱 I’m currently learning **React Js,Next Js,Typescript, Prisma, Docker, SQL, Web Accessibility and Testing**
+- 🌱 I’m currently learning React Js,Next Js,Typescript, Prisma, Docker, SQL, Web Accessibility and Testing
 - 👯 I'm currently working on:
   <span>
   [react-vite-template](https://github.com/Oluwaseun-Oyewole/react-vite-template)    
   </span>
 - 👨‍💻 All of my projects are available at [https://github.com/Oluwaseun-Oyewole](https://github.com/Oluwaseun-Oyewole)
-- 💬 Ask me about **ReactJs, NextJs, Typescript, Mongo, Prisma, PSQL, Docker**
+- 💬 Ask me about ReactJs, NextJs, Typescript, Mongo, Prisma, PSQL, Docker
 - 📫 How to reach me **findseunoyewole@gmail.com**
 - 📄 Know about my experiences [https://docs.google.com/document/d/13UmEAq-hz3Lh6JK1SGZRy7XNrTXzHNCoMNzoN-uwTqE/edit#heading=h.w1g1b3b5ptee](https://docs.google.com/document/d/13UmEAq-hz3Lh6JK1SGZRy7XNrTXzHNCoMNzoN-uwTqE/edit#heading=h.w1g1b3b5ptee)
 
