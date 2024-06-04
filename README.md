@@ -21,13 +21,13 @@
 
 #### 🛠 &nbsp; Tech Stacks & Toolbox
 
-Frontend Development: React Next.js TypeScript Tailwind AntD Framer-Motion
+Frontend Development: React Next.js TypeScript Tailwind AntD Chakra-UI Framer-Motion
 
-Version Control: Git GitLab Bitbucket
+Version Control: Git GitLab Github
 
-Backend Development: SQL NoSQL Prisma Mongoose Firebase Docker, 
+Backend Development: SQL NoSQL Prisma Mongoose Firebase Docker 
 
-Testing:  Vitest, Jest, React Testing Library, Postman
+Testing: Vitest, Jest, React Testing Library, Postman
 
 Others: Redux React-Query A11y Scrum Jira
 
@@ -54,4 +54,4 @@ Others: Redux React-Query A11y Scrum Jira
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
-</br>
+</br></br>
