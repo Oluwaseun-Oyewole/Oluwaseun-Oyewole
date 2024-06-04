@@ -19,7 +19,18 @@
 - Check me out on LinkedIn - [LinkedIn](https://www.linkedin.com/in/samuel-oyewole-dev/)
 <br/>
 
-#### 🛠 &nbsp; Tech Stacks
+#### 🛠 &nbsp; Tech Stacks & Toolbox
+
+Frontend Development: React Next.js TypeScript Tailwind AntD Framer-Motion
+
+Version Control: Git GitLab Bitbucket
+
+Backend Development: SQL NoSQL Prisma Mongoose Firebase Docker, 
+
+Testing:  Vitest, Jest, React Testing Library, Postman
+
+Others: Redux React-Query A11y Scrum Jira
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
@@ -27,15 +38,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Json](https://img.shields.io/badge/-json-05122A?style=flat&logo=json)&nbsp;
 ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-#### &nbsp; Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
