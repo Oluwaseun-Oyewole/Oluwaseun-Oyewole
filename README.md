@@ -3,7 +3,7 @@
 <p>Hello 👋, I'm a Frontend engineer who is passionate about creating engaging user interfaces and interactive experiences. I curate web experiences using ReactJs, NextJs,Typescript,Tailwind, Mongo, Mongoose, Prisma, Psql, HTML, CSS, Javascript, SASS, Docker, (github workflow) CI/CD Pipelines, web accessiblity and TDD </p>
 
 -   <h3>Facts about me ⚡ </h3>
-- 🌱 I’m currently learning ReactJs, NextJs, Typescript, Prisma, Docker, SQL, Web Accessibility and TDD
+- 🌱 I’m currently learning about web-preformance, optimization, building scalable frontend architecture.
 - 👯 I'm currently working on:
   <span>
   [react-vite-template](https://github.com/Oluwaseun-Oyewole/react-vite-template)    
