@@ -9,7 +9,7 @@
   [react-vite-template](https://github.com/Oluwaseun-Oyewole/react-vite-template)    
   </span>
 - 👨‍💻 My projects are available at [https://github.com/Oluwaseun-Oyewole](https://github.com/Oluwaseun-Oyewole)
-- 💬 Ask me about Frontend engineer, web performance and optimzation
+- 💬 Ask me about Frontend engineer, web performance and optimization
 - 📫 How to reach me indseunoyewole@gmail.com
 
 - ⚡ Fun fact, I love good music and travels 
