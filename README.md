@@ -27,8 +27,9 @@ Version Control: Git GitLab Github
 Backend Development: SQL NoSQL Prisma Mongoose Firebase Docker 
 
 Testing: Vitest, Jest, React Testing Library, Postman
-
 Others: Redux React-Query A11y Scrum Jira
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
