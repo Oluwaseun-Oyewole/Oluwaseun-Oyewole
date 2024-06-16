@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact, I love good music, gym and travels 
 - Check me out on LinkedIn - [LinkedIn](https://www.linkedin.com/in/samuel-oyewole-dev/)
-<br/>
+  
 
 #### 🛠 &nbsp; Tech Stacks & Toolbox
 
