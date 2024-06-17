@@ -18,14 +18,14 @@
 
 #### 🛠 &nbsp; Tech Stacks & Toolbox
 
-Frontend Development: React Next.js TypeScript Tailwind AntD Chakra-UI Framer-Motion
+Frontend Development: React.js Next.js TypeScript
 
 Mobile Development: React-Native (Learning)
 
 Version Control: Git GitLab Github
 
-Backend Development: SQL NoSQL Prisma Mongoose Firebase Docker 
+Database: Psql Mongo Prisma Mongoose Firebase
 
-Testing: Vitest, Jest, React Testing Library, Postman
+Testing: Jest React Testing Library Postman
 
-Others: Redux React-Query A11y Scrum Jira
+Others: Redux React-Query A11y Scrum Jira Docker 
