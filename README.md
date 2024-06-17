@@ -11,7 +11,7 @@
   </span>
 - 👨‍💻 My projects are available at [https://github.com/Oluwaseun-Oyewole](https://github.com/Oluwaseun-Oyewole)
 - 💬 Ask me about Frontend engineer, web performance and optimization
-- 📫 How to reach me indseunoyewole@gmail.com
+- 📫 How to reach me findseunoyewole@gmail.com
 
 - ⚡ Fun fact, I love good music, gym and travels 
 - Check me out on LinkedIn - [LinkedIn](https://www.linkedin.com/in/samuel-oyewole-dev/)
