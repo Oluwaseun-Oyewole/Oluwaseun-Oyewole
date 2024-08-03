@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Seun Samuel</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oluwaseun-oyewole&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseun-oyewole" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=oluwaseun-oyewole&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseun-oyewole" /> </p> -->
 <p>Hello 👋, I'm a Frontend engineer who is passionate about creating engaging user interfaces and interactive experiences. I curate web experiences using ReactJs, NextJs,Typescript,React Native, Tailwind, Mongo, Mongoose, Prisma, Psql, HTML, CSS, Javascript, SASS, Docker, (github workflow) CI/CD Pipelines, web accessiblity and TDD </p>
 
 #### 🛠 &nbsp; Facts about me  ⚡
