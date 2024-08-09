@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Seun Samuel</h2>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=oluwaseun-oyewole&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseun-oyewole" /> </p> -->
-<p>Hello 👋, I'm a Frontend engineer who is passionate about creating engaging user interfaces and interactive experiences. I curate web experiences using ReactJs, NextJs,Typescript,React Native, Tailwind, Prisma, Psql, HTML, CSS, Javascript, SASS, Docker </p>
+<p>Hello 👋, I'm a Frontend engineer who is passionate about creating engaging user interfaces and interactive experiences. I curate web experiences using ReactJs, NextJs,Typescript,React-Native, SQL, Javascript, Docker and so many technologies </p>
 
 #### 🛠 &nbsp; Facts about me  ⚡
 
@@ -16,4 +16,4 @@
 
 #### 🛠 &nbsp; Tech Stacks & Toolbox
 
-React.js Next.js TypeScript, React-Native, Git GitLab Github, SQL, noSQL, Jest, RTL, Docker
+React.js Next.js TypeScript, React-Native, Git, SQL, noSQL, Jest, RTL, Docker
