@@ -16,4 +16,4 @@ I curate web experiences using ReactJs, NextJs, NestJs, Typescript,React-Native,
 
 #### 🛠 &nbsp; Tech Stacks & Toolbox
 
-React.js Next.js TypeScript, React-Native, Git, SQL, noSQL, Jest, RTL, Docker
+React.js Next.js, Node(Nest), TypeScript, React-Native, Git, SQL, noSQL, Jest, RTL, Container(Docker)
