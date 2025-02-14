@@ -9,7 +9,3 @@
 #### 🛠 &nbsp; Tech Stacks
 JavaScript, 
 TypeScript, 
-ReactJs,
-NextJs, 
-NodeJs(Nest), 
-React-Native
