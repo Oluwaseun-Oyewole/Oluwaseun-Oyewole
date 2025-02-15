@@ -5,7 +5,6 @@
 - Email - findseunoyewole@gmail.com
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/samuel-oyewole-dev/)
   
-
-#### 🛠 &nbsp; Tech Stacks
-JavaScript, 
-TypeScript, 
+#### Tech Stack
+- JavaScript
+- TypeScript
